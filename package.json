@@ -19,8 +19,5 @@
   "insomnia": {
     "name": "disable-cookies",
     "description": "Allows users to disable sending cookies for requests."
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
