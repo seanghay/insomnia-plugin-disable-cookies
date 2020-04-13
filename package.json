@@ -1,0 +1,23 @@
+{
+  "name": "insomnia-plugin-disable-cookies",
+  "version": "1.0.0",
+  "description": "Allows users to disable sending cookies for requests.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanghay/insomnia-plugin-disable-cookies.git"
+  },
+  "keywords": [
+    "insomnia-plugin"
+  ],
+  "author": "Seanghay Yath <seanghay.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanghay/insomnia-plugin-disable-cookies/issues"
+  },
+  "homepage": "https://github.com/seanghay/insomnia-plugin-disable-cookies#readme",
+  "insomnia": {
+    "name": "disable-cookies",
+    "description": "Allows users to disable sending cookies for requests."
+  }
+}
