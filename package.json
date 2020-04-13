@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-disable-cookies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Allows users to disable sending cookies for requests.",
   "main": "index.js",
   "repository": {
