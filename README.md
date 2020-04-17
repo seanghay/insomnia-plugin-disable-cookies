@@ -1,6 +1,6 @@
 # Insomnia Disable Cookies
 
-[![Npm Version](https://img.shields.io/npm/v/insomnia-plugin-disable-cookies.svg)](https://www.npmjs.com/package/insomnia-plugin-disable-cookies)
+![Npm Version](https://img.shields.io/npm/v/insomnia-plugin-disable-cookies.svg)
 ![Publish to NPM Registry](https://github.com/seanghay/insomnia-plugin-disable-cookies/workflows/Publish%20to%20NPM%20Registry/badge.svg)
 
 This is a plugin for [Insomnia](https://insomnia.rest) that allows users to disable sending cookies for requests.
